@@ -1,1 +1,1 @@
-print("Ketro")
+print("Ketro ")
