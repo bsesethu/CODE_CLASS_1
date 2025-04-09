@@ -1,1 +1,2 @@
-print(1)
+A="Lee-Anne van der Merwe"
+print(A[8:])
